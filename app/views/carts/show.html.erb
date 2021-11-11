@@ -39,7 +39,7 @@
         <script
           src="https://checkout.stripe.com/checkout.js" class="stripe-button"
           data-key="<%= Rails.configuration.stripe[:publishable_key] %>"
-          data-amount="<%= cart_subtotal_cents %>"
+          data-amount="<%= "$#{'%.2f' % (cart_subtotal_cents.to_i / 100.0)}" %>"
           data-name="Jungle"
           data-description="Khurram Virani's Jungle Order"
           data-locale="auto"
