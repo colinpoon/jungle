@@ -1,7 +1,9 @@
 <h1>Register!</h1>
 <br>
 <%= form_for :user, url: '/users' do |f| %>
-  Name: <br><%= f.text_field :name %>
+  First Name: <br><%= f.text_field :first_name %>
+  <br>
+  Last Name: <br><%= f.text_field :last_name %>
   <br>
   Email: <br><%= f.text_field :email %>
   <br>
