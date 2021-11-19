@@ -4,19 +4,12 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 
 ## Final Product
 
-## Responsive Design For Desktop
-!["Landing"](https://github.com/colinpoon/tweeter/blob/master/public/images/README-IMGS/Screen%20Shot%202021-10-08%20at%204.01.40%20PM.png?raw=true)  
+!["Product View"](https://github.com/colinpoon/jungle/blob/master/imgs/Screen%20Shot%202021-11-18%20at%205.08.12%20PM.png?raw=true)  
 
-!["Error"](https://github.com/colinpoon/tweeter/blob/master/public/images/README-IMGS/Screen%20Shot%202021-10-08%20at%204.01.48%20PM.png?raw=true)  
+!["Cart View"](https://github.com/colinpoon/jungle/blob/master/imgs/Screen%20Shot%202021-11-18%20at%205.08.29%20PM.png?raw=true)  
 
-!["Back To-Top"](https://raw.githubusercontent.com/colinpoon/tweeter/master/public/images/README-IMGS/Screen%20Shot%202021-10-08%20at%204.02.16%20PM.png)  
-
-## Responsive Design For Tablet & Mobile 
-!["Landing"](https://github.com/colinpoon/tweeter/blob/master/public/images/README-IMGS/Screen%20Shot%202021-10-08%20at%204.02.44%20PM.png)  
-
-!["Error"](https://github.com/colinpoon/tweeter/blob/master/public/images/README-IMGS/Screen%20Shot%202021-10-08%20at%204.02.56%20PM.png?raw=true)  
-
-!["Back To-Top"](https://github.com/colinpoon/tweeter/blob/master/public/images/README-IMGS/Screen%20Shot%202021-10-08%20at%204.03.05%20PM.png?raw=true)  
+!["Login & Register"](https://github.com/colinpoon/jungle/blob/master/imgs/Screen%20Shot%202021-11-18%20at%205.08.40%20PM.png?raw=true)  
+ 
 
 ## Additional Steps for Apple M1 Machines
 
